@@ -9,7 +9,6 @@ pfds.
 Features
 - [ ] **API method for receiving and returning pdfs to client**
 - [ ] **python function that converts a pdf into a searchable pdf through pytesseract**
-- [ ] ****
 
 Future Optional Features:
 - [ ] **Server can receive multiple pdfs from one user and return multiple pdfs**
